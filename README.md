@@ -1,2 +1,2 @@
 # schedulerBot
-We are making a bot for Horizons fun.
+Making an intelligent slack bot that is trained via APIAI to schedule meetings on Google Calendar.
